@@ -1,0 +1,7 @@
+Function value for current best x = 2.89279
+Function value for current best x = 2.02946
+Function value for current best x = 1.48009
+Function value for current best x = 1.23972
+Function value for current best x = 1.19509
+Function value for current best x = 1.19368
+Function value for current best x = 1.19367
